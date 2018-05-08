@@ -1,4 +1,3 @@
-@extends('template')
 @section('menu_lateral')
 <ul class="nav">
     <li class="active">
