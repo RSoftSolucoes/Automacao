@@ -31,7 +31,7 @@
     -->
             <div class="logo">
                 <a href="http://www.creative-tim.com" class="simple-text">
-                    Creative Tim
+                    Automação
                 </a>
             </div>
             <div class="sidebar-wrapper">
@@ -48,7 +48,7 @@
                             <span class="icon-bar"></span>
                             <span class="icon-bar"></span>
                         </button>
-                        <a class="navbar-brand" href="#"> Material Dashboard </a>
+                        <a class="navbar-brand" href="#">Dashboard </a>
                     </div>
                     <div class="collapse navbar-collapse">
                         <ul class="nav navbar-nav navbar-right">
@@ -105,6 +105,7 @@
             <div class="content">
               @yield('content')
             </div>
+            <!--
             <footer class="footer">
                 <div class="container-fluid">
                     <nav class="pull-left">
@@ -139,7 +140,7 @@
                         <a href="http://www.creative-tim.com">Creative Tim</a>, made with love for a better web
                     </p>
                 </div>
-            </footer>
+            </footer> -->
         </div>
     </div>
 </body>
